@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>NewRelic.Service.CustomEvents</id>
+        <version></version>
+        <authors>Jonathan Madden</authors>
+        <description>NewRelic CustomEvents is a simple, flexible, and quick way of deploying custome events within service based applications.</description>
+        <projectUrl>https://github.com/virtualmadden/NewRelic.Service.CustomEvents</projectUrl>
+        <licenseUrl>https://raw.githubusercontent.com/virtualmadden/NewRelic.Service.CustomEvents/master/LICENSE</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>NewRelic Events Monitoring</tags>
+    </metadata>
+</package>
