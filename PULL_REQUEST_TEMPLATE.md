@@ -1,8 +1,5 @@
 ### Purpose
 <!-- Why should we make this change? -->
-```csharp
-// This is a good place to summarize purpose.
-```
 
 ### Type
 [ ] Bug</br>
@@ -11,9 +8,6 @@
 
 ### Description
 <!-- How did you solve this? -->
-```csharp
-// This is a good place to describe what's going on.
-```
 
 ### Technical notes
 <!-- Are there special technical considerations? -->
