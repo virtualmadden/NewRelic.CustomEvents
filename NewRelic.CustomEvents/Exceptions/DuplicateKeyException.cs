@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace NewRelic.Service.CustomEvents.Exceptions
+namespace NewRelic.CustomEvents.Exceptions
 {
     public class DuplicateKeyException : Exception
     {

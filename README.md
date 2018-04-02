@@ -1,4 +1,4 @@
-# NewRelic.Service.CustomEvents
+# NewRelic.CustomEvents
 .NET Standard library supporting custom event reporting to the NewRelic Insights product.
 
 ## Attributes

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using FluentAssertions;
-using NewRelic.Service.CustomEvents.Attributes;
-using NewRelic.Service.CustomEvents.Events;
+using NewRelic.CustomEvents.Attributes;
+using NewRelic.CustomEvents.Events;
 using NUnit.Framework;
 
-namespace NewRelic.Service.CustomEvents.Tests.Attributes
+namespace NewRelic.CustomEvents.Tests.Attributes
 {
     [TestFixture]
     public class EventAttributesTests

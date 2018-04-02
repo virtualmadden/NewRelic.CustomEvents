@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
-using NewRelic.Service.CustomEvents.Attributes;
-using NewRelic.Service.CustomEvents.Exceptions;
+using NewRelic.CustomEvents.Attributes;
+using NewRelic.CustomEvents.Exceptions;
 
-namespace NewRelic.Service.CustomEvents.Events
+namespace NewRelic.CustomEvents.Events
 {
     public abstract class BaseEvent
     {

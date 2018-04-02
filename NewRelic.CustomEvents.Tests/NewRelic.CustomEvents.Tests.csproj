@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NewRelic.Service.CustomEvents\NewRelic.Service.CustomEvents.csproj" />
+    <ProjectReference Include="..\NewRelic.CustomEvents\NewRelic.CustomEvents.csproj" />
   </ItemGroup>
 
 </Project>

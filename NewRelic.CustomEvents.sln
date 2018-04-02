@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelic.Service.CustomEvents", "NewRelic.Service.CustomEvents\NewRelic.Service.CustomEvents.csproj", "{D93098A8-837F-4D60-B1B7-A5318CD5AB03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelic.CustomEvents", "NewRelic.CustomEvents\NewRelic.CustomEvents.csproj", "{D93098A8-837F-4D60-B1B7-A5318CD5AB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelic.Service.CustomEvents.Tests", "NewRelic.Service.CustomEvents.Tests\NewRelic.Service.CustomEvents.Tests.csproj", "{99248C76-2199-4873-9F2C-FCB2EB36149B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewRelic.CustomEvents.Tests", "NewRelic.CustomEvents.Tests\NewRelic.CustomEvents.Tests.csproj", "{99248C76-2199-4873-9F2C-FCB2EB36149B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

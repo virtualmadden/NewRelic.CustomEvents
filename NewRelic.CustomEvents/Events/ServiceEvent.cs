@@ -1,7 +1,7 @@
 ﻿using System;
-using NewRelic.Service.CustomEvents.Enumerations;
+using NewRelic.CustomEvents.Enumerations;
 
-namespace NewRelic.Service.CustomEvents.Events
+namespace NewRelic.CustomEvents.Events
 {
     public class ServiceEvent : BaseEvent
     {

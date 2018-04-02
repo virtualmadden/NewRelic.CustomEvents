@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NewRelic.Service.CustomEvents.Attributes
+namespace NewRelic.CustomEvents.Attributes
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class NewRelicIgnore : Attribute

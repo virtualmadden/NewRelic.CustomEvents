@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Linq;
 using FluentAssertions;
-using NewRelic.Service.CustomEvents.Enumerations;
-using NewRelic.Service.CustomEvents.Events;
-using NewRelic.Service.CustomEvents.Exceptions;
+using NewRelic.CustomEvents.Enumerations;
+using NewRelic.CustomEvents.Events;
+using NewRelic.CustomEvents.Exceptions;
 using NUnit.Framework;
 
-namespace NewRelic.Service.CustomEvents.Tests.Events
+namespace NewRelic.CustomEvents.Tests.Events
 {
     [TestFixture]
     public class ServiceEventTests

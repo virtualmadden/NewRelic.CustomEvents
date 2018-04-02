@@ -1,4 +1,4 @@
-﻿namespace NewRelic.Service.CustomEvents.Enumerations
+﻿namespace NewRelic.CustomEvents.Enumerations
 {
     public enum OperationLevel
     {
