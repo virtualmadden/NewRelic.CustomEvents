@@ -1,6 +1,10 @@
 # NewRelic.CustomEvents
 .NET Standard library supporting custom event reporting to the NewRelic Insights product.
 
+|Master|
+|:--:|
+|[![Build Status](https://travis-ci.org/virtualmadden/NewRelic.CustomEvents.svg?branch=master)](https://travis-ci.org/virtualmadden/NewRelic.CustomEvents)|
+
 ## Attributes
 
 ### Event Attributes
